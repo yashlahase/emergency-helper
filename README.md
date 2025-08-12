@@ -2,7 +2,7 @@
 QuickHelp – One-Tap Emergency Assistance App
 
 ## 2. Your Name & Roll Number
-[Your Name] – [Your Roll Number]
+YASH LAHASE
 
 ## 3. Problem Statement
 In emergencies, people often waste precious time searching for help numbers, explaining their location, or finding nearby hospitals and police stations. Delays in response can worsen the situation and, in extreme cases, cost lives. There is a need for a fast, simple, and reliable way to alert contacts and locate help instantly.
